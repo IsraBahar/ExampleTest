@@ -11,6 +11,7 @@ package exampletest;
 public class ExampleTest {
 
     public static void main(String[] args) {
+        private int id;
         System.out.println("Hello World!");
     }
 }
